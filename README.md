@@ -12,7 +12,6 @@
 [![Delphi](https://img.shields.io/badge/Delphi-4EA94B?style=for-the-badge&logo=delphi&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-4EA94B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-4EA94B?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-4EA94B?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=101010)]()
 [![PlSql](https://img.shields.io/badge/PlSql-4EA94B?style=for-the-badge&logo=Oracle&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-4EA94B?style=for-the-badge&logo=Swift&logoColor=white&labelColor=101010)]()
 
@@ -24,6 +23,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23FF6600?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/ReactJS-%23FF6600?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
 [![JSON](https://img.shields.io/badge/JSON-%23FF6600?style=for-the-badge&logo=JSON&logoColor=white&labelColor=101010)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23FF6600?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=101010)]()
 
 <!-- Backend -->
 [![Spring](https://img.shields.io/badge/Spring-131F37?style=for-the-badge&logo=Spring&logoColor=white&labelColor=101010)]()
@@ -31,7 +31,6 @@
 [![Apache](https://img.shields.io/badge/Apache-131F37?style=for-the-badge&logo=Apache&logoColor=white&labelColor=101010)]()
 [![Postman](https://img.shields.io/badge/Postman-131F37?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)]()
 [![Hibernate](https://img.shields.io/badge/Hibernate-131F37?style=for-the-badge&logo=Hibernate&logoColor=white&labelColor=101010)]()
-[![Gulp](https://img.shields.io/badge/Gulp-131F37?style=for-the-badge&logo=Gulp&logoColor=white&labelColor=101010)]()
 [![Gulp](https://img.shields.io/badge/Gulp-131F37?style=for-the-badge&logo=Gulp&logoColor=white&labelColor=101010)]()
 
 
@@ -55,10 +54,11 @@
 [![Ionic](https://img.shields.io/badge/Ionic-FA7343?style=for-the-badge&logo=Ionic&logoColor=white&labelColor=101010)]()
 [![Capacitor](https://img.shields.io/badge/Capacitor-FA7343?style=for-the-badge&logo=Capacitor&logoColor=white&labelColor=101010)]()
 
-<!-- pendientes -->
+<!-- pendientes 
 [![JUnit5](https://img.shields.io/badge/JUnit5-FFFFFF?style=for-the-badge&logo=JUnit5&logoColor=white&labelColor=101010)]()
 [![kubernetes](https://img.shields.io/badge/kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)]()
 [![Mocha](https://img.shields.io/badge/Mocha-FFFFFF?style=for-the-badge&logo=Mocha&logoColor=white&labelColor=101010)]()
+-->
 
 
 ## Portafolio
